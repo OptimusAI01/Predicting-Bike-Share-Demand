@@ -36,7 +36,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/BinarySkull/bike-sharing-autogluon.git
+    git clone https://github.com/OptimusAI01/Predicting-Bike-Share-Demand.git
     cd bike-sharing-autogluon
     ```
 
